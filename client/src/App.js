@@ -6,8 +6,8 @@ import Profile from "./components/profile/profie";
 function App() {
   return (
     <div className="App">
-      {/* <Login /> */}
-      <Register />
+      <Login />
+      {/* <Register /> */}
       {/* <Profile /> */}
     </div>
   );
